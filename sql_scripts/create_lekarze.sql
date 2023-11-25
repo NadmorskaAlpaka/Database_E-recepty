@@ -4,6 +4,6 @@ CREATE TABLE lekarze (
     nazwisko VARCHAR(40),
     telefon VARCHAR(20),
     email VARCHAR(50),
-    specjalizacja VARCHAR(50),
+    specjalizacja INT,
     nr_licencji VARCHAR(30)
 )  AUTO_INCREMENT = 1000;

@@ -4,5 +4,5 @@ CREATE TABLE pacjenci (
     nazwisko VARCHAR(40),
 	data_urodzenia DATE,
     telefon VARCHAR(20),
-    nr_ubezpieczenia_zdrowotnego VARCHAR(30)
+    nr_ubezpieczenia_zdrowotnego VARCHAR(26)
 )
